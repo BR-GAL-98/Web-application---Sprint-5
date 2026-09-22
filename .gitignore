@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ignore CSV files
+*.csv
+
+# Visual Studio Code settings
+.vscode/settings.json

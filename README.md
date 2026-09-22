@@ -15,4 +15,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Aplicação em Produção
-https://vehicles-dashboard-streamlit-gui.onrender.com
+[Clique aqui para acessar o Dashboard no Render](https://vehicles-dashboard-streamlit-gui.onrender.com)
